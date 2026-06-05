@@ -1,0 +1,6 @@
+{
+  "name": "VisionVoice",
+  "description": "A voice-first Android assistant for blind and visually impaired users.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VisionVoice</string>
+    <string name="accessibility_service_description">Provides hands-free voice controls, read-screen descriptions, simulated currency checks, and ambient obstacle scanning alerts.</string>
+</resources>
